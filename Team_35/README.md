@@ -19,6 +19,20 @@ To support reverse translation (Text → ISL) using gloss mapping and animation 
 
 To build a scalable and user-friendly system for inclusive communication
 
+🚀 How to Run the Project
+
+Clone the repository
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run the Flask server:
+
+python app.py
+
+Open the application in a browser and allow webcam access
+
 👩‍💻 Team Members
 
 R. Moushmi Srimayi (1CR22CS140)
